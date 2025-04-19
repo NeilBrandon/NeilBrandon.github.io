@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[markdown]": {
+			"editor.wordWrap": "bounded",
+			"editor.wordWrapColumn": 80
+		}
+	}
+}
